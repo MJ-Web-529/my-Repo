@@ -1,4 +1,4 @@
 # my-Repo
 my first git repository
 <br>
-Author- MJ
+Author- MJ (the web developr)
